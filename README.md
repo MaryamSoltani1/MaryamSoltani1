@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MaryamSoltani1
 - 👀 I’m interested in Machine Learning
+- Time by time I add some of my codes, as I love applications of AI in medicine and engineering!!!
 
 
 
